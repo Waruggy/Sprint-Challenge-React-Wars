@@ -14,10 +14,6 @@
   background: gray;
 }
 
- .card:hover {
-  transform: scale(1.03);
-}
-
  .card p {
   text-align: left;
   text-transform: capitalize;
